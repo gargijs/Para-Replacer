@@ -24,7 +24,7 @@
 
 # ScreenShots
 <img src="./parass.png">
-<img src="./parasss.PNG">
+<img src="./parasss.png">
 
 
 
