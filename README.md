@@ -24,7 +24,7 @@
 
 # ScreenShots
 <img src="./parass.PNG">
-<img src="./parasss.PNG">
+<img src="./paraass.PNG">
 
 # How to Install as Chrome Extension?
 * You can download this from the Chrome Store:
