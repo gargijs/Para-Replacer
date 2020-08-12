@@ -1,0 +1,22 @@
+
+{
+"manifest_version" : 2,
+"name" : "Parareplacer",
+"version" : "0.001",
+"icons": {"126": "icon.png"},
+"background" : {
+"scripts" : ["background.js"]
+},
+"content_scripts" : [
+{
+"matches" : [
+"<all_urls>"
+],
+"js" : ["content.js"]
+}],
+"browser_action" : {
+"default_popup" : "popup.html",
+"default_title" : "A popup will come"
+
+}
+}
